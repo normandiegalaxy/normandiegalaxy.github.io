@@ -118,3 +118,13 @@ improvedigital.com, 2301, RESELLER
 #meta
 facebook.com, 160280386238251, DIRECT, c3e20eee3f780d68
 wortise.com, 7d725492-a6e5-4248-a990-63612bddc401, DIRECT
+
+applovin.com, f0d26e5f9af15b3a8c02041f70dd5b3a, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
