@@ -2,6 +2,7 @@
 yodo1.com, 64e265c8ee80ff39d35d8d32, DIRECT
 ## AdsTxtSite app-ads.txt - Updated at: 2023-11-08
 
+applovin.com, f0d26e5f9af15b3a8c02041f70dd5b3a, DIRECT
 appnexus.com, 13817, RESELLER
 gamoshi.io, 267-b4800, RESELLER
 bigo.sg, 8337484, DIRECT
