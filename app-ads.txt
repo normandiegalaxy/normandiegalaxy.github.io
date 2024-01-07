@@ -39,6 +39,16 @@ rubiconproject.com, 24520, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25318, RESELLER, 0bfd66d529a55807
 bold-win.com, 166, RESELLER, 71746737d0bab951
 my-cast.tv, 987032, RESELLER
+pubmatic.com, 161582, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 3891336054, RESELLER
+video.unrulymedia.com, 682817271102171104, RESELLER
+video.unrulymedia.com, 3795567838, RESELLER
+video.unrulymedia.com, 1286320118, RESELLER
+rubiconproject.com, 25374, RESELLER, 0bfd66d529a55807
+smartclip.net, 12358, RESELLER
+smartclip.net, 12422, RESELLER
+whildey.com, 6401127138, RESELLER
+advanttechnology.com, 2142690699, RESELLER
 rubiconproject.com, 25748, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24606, RESELLER, 0bfd66d529a55807
 caerulus.io, 3320-39849, RESELLER
