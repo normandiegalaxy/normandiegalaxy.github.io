@@ -14,6 +14,8 @@ verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
 lkqd.net, 654, RESELLER, 59c49fa9598a0117
 whildey.com, 5541841875, RESELLER
+improvedigital.com, 1209, RESELLER
+ionvogroup.com, 4737400844, RESELLER
 adnuro.com, 2882096573, RESELLER
 newsusadigital.com, 1001719521, RESELLER
 balloonlabs.ai, 9173515033, RESELLER
