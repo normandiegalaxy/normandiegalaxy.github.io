@@ -13,7 +13,11 @@ pubnative.net, 1007974, RESELLER, d641df8625486a7b
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
 lkqd.net, 654, RESELLER, 59c49fa9598a0117
-
+goldbach-germany.de, Connekt, RESELLER
+tremorhub.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+telaria.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
+xandr.com, 15769, RESELLER
+appnexus.com, 15769, RESELLER, f5ab79cb980f11d1
 whildey.com, 5541841875, RESELLER
 improvedigital.com, 1209, RESELLER
 ionvogroup.com, 4737400844, RESELLER
