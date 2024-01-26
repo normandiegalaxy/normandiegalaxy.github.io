@@ -9,6 +9,8 @@ toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 ignitemediatech.com, pub_61122, RESELLER
 ignitemediatech.com, 61119, RESELLER
+smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
+video.unrulymedia.com, 645663965, RESELLER
 pubnative.net, 1007974, RESELLER, d641df8625486a7b
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
