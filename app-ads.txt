@@ -15,6 +15,7 @@ pubnative.net, 1007974, RESELLER, d641df8625486a7b
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
 advertising.com, 23089, RESELLER
+smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
 advertising.com, 28605, RESELLER
 aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
 appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
