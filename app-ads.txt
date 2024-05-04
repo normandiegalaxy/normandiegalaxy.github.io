@@ -9,6 +9,10 @@ toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 ignitemediatech.com, pub_61122, RESELLER
 onetag.com, 8668c16092f01e8, RESELLER
+contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
+vidoomy.com, 7646534, DIRECT
+toponad.com, 1661f80179644e, RESELLER, 1d49fe424a1a456d
+freewheel.tv, 1603124, RESELLER
 ignitemediatech.com, 61119, RESELLER
 smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
 video.unrulymedia.com, 645663965, RESELLER
