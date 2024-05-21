@@ -11,6 +11,52 @@ ignitemediatech.com, pub_61122, RESELLER
 onetag.com, 8668c16092f01e8, RESELLER
 contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
 vidoomy.com, 7646534, DIRECT
+webeyemob.com, 70098, DIRECT
+rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
+e-planning.net, 79686787743ddfc5, RESELLER, c1ba615865ed87b2
+playwire.com, 1025119, RESELLER
+video.unrulymedia.com, 392157850, RESELLER
+video.unrulymedia.com, 962111114, RESELLER
+video.unrulymedia.com, 7093244032824963982, RESELLER
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
+lijit.com, 443291, RESELLER, fafdf38b16bf6b2b
+lijit.com, 478192, RESELLER, fafdf38b16bf6b2b
+stroeer.com, 25290, RESELLER
+sharethrough.com, 26VgE1nN, RESELLER, d53b998a7bd4ecd2
+goldbach-germany.de, BalloonLabs, RESELLER
+improvedigital.com, 2421, RESELLER
+improvedigital.com, 2414, RESELLER
+conversantmedia.com, 100695, RESELLER, 03113cd04947736d
+smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
+zetaglobal.net, 525, RESELLER
+disqus.com, 525, RESELLER
+vidoomy.com, 4977914, RESELLER
+contextweb.com, 562872, RESELLER, 89ff185a4c4e857c
+inmobi.com, e571e03c05664d25becfd1174c7e0dbd, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 4451d1f01be9464fbefca01a73ff8294, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 9560caf77e0f4e14a9cd83cd9561de29, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 300bb0e4e3704cd495136c09d57448b9, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 24908, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4279, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4297, RESELLER, 060d053dcf45cbf3
+rhythmone.com, 1058378980, RESELLER, a670c89d4a324e47
+rhythmone.com, 3795567838, RESELLER, a670c89d4a324e47
+rubiconproject.com, 24520, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26386, RESELLER, 0bfd66d529a55807
+pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164602, RESELLER, 5d62403b186f2ace
+xandr.com, 16161, RESELLER
+rubiconproject.com, 26566, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24468, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24960, RESELLER, 0bfd66d529a55807
+outbrain.com, 00a7a621155a60e5a12298c11790e00a60, RESELLER
+alpecs.com, 4618785691, RESELLER
+signifad.com, 8461547455, RESELLER
+connekt.ai, 9539663670, RESELLER
+thunder-monetize.com, 1125520627, RESELLER
+axonix.com, 59101, RESELLER, bc385f2b4a87b721
+rubiconproject.com, 26510, RESELLER, 0bfd66d529a55807b
+lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
 toponad.com, 1661f80179644e, RESELLER, 1d49fe424a1a456d
 freewheel.tv, 1603124, RESELLER
 ignitemediatech.com, 61119, RESELLER
