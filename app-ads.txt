@@ -11,6 +11,7 @@ ignitemediatech.com, pub_61122, RESELLER
 onetag.com, 8668c16092f01e8, RESELLER
 contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
 vidoomy.com, 7646534, DIRECT
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
 webeyemob.com, 70098, DIRECT
 rhythmone.com, 689559416, RESELLER, a670c89d4a324e47
 unrulymedia.com, 1058378980, RESELLER
