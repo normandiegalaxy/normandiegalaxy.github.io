@@ -15,6 +15,44 @@ lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
 webeyemob.com, 70098, DIRECT
 rhythmone.com, 689559416, RESELLER, a670c89d4a324e47
 unrulymedia.com, 1058378980, RESELLER
+webeyemob.com, 70628, RESELLER
+taurusx.com, 70628, RESELLER
+webeyemob.com, 80609, RESELLER
+taurusx.com, 80609, RESELLER
+caerulus.io, 3320-44758, RESELLER
+video.unrulymedia.com, 124775993, RESELLER
+connatix.com, 1652500284288994, DIRECT, 2af98acdee0e81ed
+xandr.com, 13167, RESELLER
+lijit.com, 289960, RESELLER, fafdf38b16bf6b2b
+newsusadigital.com, 5221952768, RESELLER
+newsusadigital.com, 8346098398, RESELLER
+newsusadigital.com, 4575726290, RESELLER
+newsusadigital.com, 3136954787, RESELLER
+aceex.io, 1696, RESELLER
+aceex.io, 1184, RESELLER
+aceex.io, 898, RESELLER
+adstxtmarket.com, 8870920986, RESELLER
+adstxtmarket.com, 1159989565, RESELLER
+alpecs.com, 8044176377, RESELLER
+thunder-monetize.com, 4364334389, DIRECT
+thunder-monetize.com, 3138610630, DIRECT
+thunder-monetize.com, 6837565234, DIRECT
+thunder-monetize.com, 5711850774, DIRECT
+thunder-monetize.com, 9275989450, DIRECT
+thunder-monetize.com, 9654864836, DIRECT
+thunder-monetize.com, 9018670488, DIRECT
+thunder-monetize.com, 2769141006, DIRECT
+thunder-monetize.com, 1361413818, DIRECT
+thunder-monetize.com, 6349431715, DIRECT
+rhebus.works, 4598962869, DIRECT
+rhebus.works, 2446424047, DIRECT
+rhebus.works, 7709024633, DIRECT
+rhebus.works, 4968633571, DIRECT
+rhebus.works, 1200614149, DIRECT
+rhebus.works, 5091504560, DIRECT
+rhebus.works, 4104683787, DIRECT
+lunamedia.io, e6052bf0717e11eda1b0b561fab79f1a, DIRECT, 524ecb396915caaf
+zetaglobal.net, 681, RESELLER
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
