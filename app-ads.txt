@@ -18,6 +18,8 @@ unrulymedia.com, 1058378980, RESELLER
 webeyemob.com, 70628, RESELLER
 taurusx.com, 70628, RESELLER
 webeyemob.com, 80609, RESELLER
+improvedigital.com, 2450, RESELLER
+improvedigital.com, 2451, RESELLER
 taurusx.com, 80609, RESELLER
 caerulus.io, 3320-44758, RESELLER
 video.unrulymedia.com, 124775993, RESELLER
