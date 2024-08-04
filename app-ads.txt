@@ -21,6 +21,9 @@ webeyemob.com, 80609, RESELLER
 improvedigital.com, 2450, RESELLER
 improvedigital.com, 2451, RESELLER
 taurusx.com, 80609, RESELLER
+adingo.jp, 31054, RESELLER
+singularads, 548745, RESELLER
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 caerulus.io, 3320-44758, RESELLER
 video.unrulymedia.com, 124775993, RESELLER
 connatix.com, 1652500284288994, DIRECT, 2af98acdee0e81ed
