@@ -15,6 +15,9 @@ lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
 webeyemob.com, 70098, DIRECT
 rhythmone.com, 689559416, RESELLER, a670c89d4a324e47
 unrulymedia.com, 1058378980, RESELLER
+smaato.com, 1100057546, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+pubmatic.com, 165329, RESELLER, 5d62403b186f2ace
 webeyemob.com, 70628, RESELLER
 taurusx.com, 70628, RESELLER
 webeyemob.com, 80609, RESELLER
