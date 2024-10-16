@@ -12,6 +12,7 @@ onetag.com, 8668c16092f01e8, RESELLER
 pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
 ignitemediatech.com, 61119, RESELLER
 consumable.com, 2001560, RESELLER, aefcd3d2f45b5070
+e-planning.net, 1bf7b5d803f178c4, RESELLER, c1ba615865ed87b2
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
