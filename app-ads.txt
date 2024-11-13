@@ -9,6 +9,10 @@ toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 ignitemediatech.com, pub_61122, RESELLER
 onetag.com, 8668c16092f01e8, RESELLER
+opera.com, pub11079554715136, DIRECT, 55a0c5fd61378de3
+lijit.com, 530498, RESELLER, fafdf38b16bf6b2b
+showheroes.com, 6031, RESELLER
+smartclip.net, 27985, RESELLER
 pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
 ignitemediatech.com, 61119, RESELLER
 consumable.com, 2001560, RESELLER, aefcd3d2f45b5070
