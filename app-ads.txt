@@ -33,6 +33,7 @@ lijit.com, 380632, RESELLER, fafdf38b16bf6b2b
 krushmedia.com, AJxF6R192a9M6CaTvK, DIRECT
 conversantmedia.com, 100863, RESELLER, 03113cd04947736d
 appaspire.com, 97515, RESELLER
+themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
 rubiconproject.com, 26694, RESELLER, 0bfd66d529a55807
 pubmatic.com, 165702, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165701, RESELLER, 5d62403b186f2ace
