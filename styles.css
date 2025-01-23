@@ -76,7 +76,7 @@ a {
 
 .app-item img {
     max-width: 100px;
-    border-radius: 8px;
+    border-radius: 13px;
     margin-bottom: 1em;
 }
 
@@ -116,7 +116,8 @@ footer {
 }
 
 .app-header .app-icon {
-    max-width: 100px;
+    max-width: 250px;
+    border-radius: 31px;
     margin-bottom: 1em;
 }
 
@@ -159,7 +160,7 @@ footer {
 }
 
 .feature-item img {
-    max-width: 80px;
+    max-width: 250px;
     margin-bottom: 1em;
 }
 
@@ -191,7 +192,7 @@ footer {
 /* Navigation Bar */
 nav {
     background-color: rgba(0, 0, 0, 0.7);
-    padding: 1em;
+    padding: 0.5em;
     position: fixed;
     width: 100%;
     top: 0;
